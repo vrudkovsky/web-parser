@@ -1,4 +1,4 @@
-package app;
+package jsoup;
 
 import com.mashape.unirest.http.HttpResponse;
 import com.mashape.unirest.http.Unirest;

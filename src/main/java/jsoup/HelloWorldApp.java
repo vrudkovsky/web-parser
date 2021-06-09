@@ -1,4 +1,4 @@
-package app;
+package jsoup;
 
 public class HelloWorldApp {
 

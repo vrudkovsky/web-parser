@@ -1,4 +1,4 @@
-package app;
+package jsoup;
 
 import org.java_websocket.client.WebSocketClient;
 import org.java_websocket.handshake.ServerHandshake;

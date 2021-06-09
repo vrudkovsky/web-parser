@@ -1,4 +1,6 @@
-package app;
+package jsoup;
+
+import jsoup.OgogoroNewsListener;
 
 public class Main {
 

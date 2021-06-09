@@ -1,3 +1,5 @@
+package jsoup;
+
 public class SearchResult {
 
     private final String title;
